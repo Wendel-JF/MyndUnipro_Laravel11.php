@@ -17,13 +17,13 @@
     </a>
         <x-admin.card>
             <x-slot:header>
-               <img src="{{ asset('storage/images/professor.png') }}" alt="" srcset="">
+              
             </x-slot:header>
             Professor
         </x-admin.card>
         <x-admin.card >
             <x-slot:header>
-                {!! file_get_contents(public_path('storage/images/book.svg')) !!}
+              
             </x-slot:header>
             Diciplinas
         </x-admin.card>
