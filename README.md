@@ -35,11 +35,6 @@ Executar as seed para cadastar os registros teste no banco de dados.
 php artisan db:seed
 ```
 
-Criar Seed.
-```
-php artisan make:seeder UserSeeder
-```
-
 Iniciar o projeto criado com Laravel.
 ```
 php artisan serve
