@@ -25,6 +25,11 @@ Gerar a chave.
 php artisan key:generate
 ```
 
+Criar um Link para o storage
+```
+php artisan storage:link
+```
+
 Executar as migration para criar a base de dados e as tabelas.
 ```
 php artisan migrate
